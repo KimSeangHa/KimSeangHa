@@ -18,11 +18,11 @@ You can click the Preview link to take a look at your changes.
 <br/>
 <br/>
 
-<p> - 👋 Hi There </p>
-<p> - I am a fun developer. </p>
-<p> - I have a desire to develop many things. </p>
-<p> - Please contact us if you have any interesting developments. </p>
-<p> - 📫 kshman94@naver.com </p>
+<span> - 👋 Hi There </span> <br/>
+<span> - I am a fun developer. </span> <br/>
+<span> - I have a desire to develop many things. </span> <br/>
+<span> - Please contact us if you have any interesting developments. </span> <br/>
+<span> - 📫 kshman94@naver.com </span>
 
       
 
