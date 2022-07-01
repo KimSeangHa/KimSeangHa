@@ -15,9 +15,14 @@ You can click the Preview link to take a look at your changes.
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+<br/>
+<br/>
 
-- 👋 Hi There 
-- I am a developer.
-- I have a desire to develop many things.
-- 📫 kshman94@naver.com
+<p> - 👋 Hi There </p>
+<p> - I am a fun developer. </p>
+<p> - I have a desire to develop many things. </p>
+<p> - Please contact us if you have any interesting developments. </p>
+<p> - 📫 kshman94@naver.com </p>
+
+      
 
