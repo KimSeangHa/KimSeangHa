@@ -13,9 +13,11 @@ You can click the Preview link to take a look at your changes.
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  
+  - 👋 Hi There 
+  - I am a developer.
+  - I have a desire to develop many things.
+  - 📫 kshman94@naver.com
+
 </div>
 
-- 👋 Hi There 
-- I am a developer.
-- I have a desire to develop many things.
-- 📫 kshman94@naver.com
